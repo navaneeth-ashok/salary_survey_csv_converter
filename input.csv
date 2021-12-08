@@ -1,0 +1,106 @@
+Timestamp,"What location is this salary for? Select Remote-US if applicable. If Remote Canada, select Canadian HQ location. ",Position Title,"Base Salary $ (please quote in CAD) eg. 120,000","Stock Options $ (please quote in CAD, 0 if none) eg. 10,000","Bonus, including sign on bonus $ (please quote in CAD, 0 if none) eg. 20,000",Other cash or equity,,"Years of Experience,  please include internships and co-ops eg. 1, 2.5, 5","Highest Education Achieved (most relevant, if possible)",Did you attend a tech bootcamp?,What year is this salary applicable for? ,Industry,"If you selected ""Other"" for industry, what industry is it?","Is this company considered to be FAANG/MMANGA (Microsoft, Apple, Amazon, Google, Facebook/Meta)",Company Size
+12-07-2021 15:55,British Columbia (BC),Associate Solutions Engineer,"$63,000.000",0,0,,,2,Bachelor's Degree - Related,,2020,Video Games,,No,101-300
+12-07-2021 15:58,British Columbia (BC),Software Development Engineer,"$102,000.000","86,000","22,000","20,500 year 2 bonus",,1,Bachelor's Degree - Related,,2021,Tech,,Yes,1000+
+12-07-2021 16:01,British Columbia (BC),Software Developer,"$100,000.000",0,0,,,1.5,Diploma - Related,,2021,ERP or CRM,,No,501-1000
+12-07-2021 16:03,British Columbia (BC),Software Engineer,"$150,000.000",0,0,,,2.5,High School Diploma Only,,2021,eCommerce,,No,101-200
+12-07-2021 16:05,British Columbia (BC),Firmware Engineer - Co-op,"$56,000.000","2,000",0,,,1,Bachelor's Degree - Related,,2021,Other,Semiconductors,No,1000+
+12-07-2021 16:06,British Columbia (BC),Fullstack Developer,"$65,000.000",0,0,,,2,Bachelor's Degree - Related,,2021,Consulting,,No,101-200
+12-07-2021 16:08,British Columbia (BC),Software Engineer,"$103,000.000","20,000","67,000",,,4,Diploma - Related,,2021,Networking,,No,501-1000
+12-07-2021 16:09,British Columbia (BC),Software Development Engineer,"$102,000.000","86,000","22,000","20,500 Year 2 Bonus",,0,Bachelor's Degree - Related,,2021,Tech,,Yes,1000+
+12-07-2021 16:10,Alberta (AB),Software Developer,"$77,000.000",0,0,,,2,Bachelor's Degree - Related,,2021,B2B,,No,501-1000
+12-07-2021 16:13,Alberta (AB),Software Developer,"$55,000.000",0,"5,000",,,0.25,Diploma - Related,,2017,Oil and Gas/Energy,,No,< 10
+12-07-2021 16:13,Alberta (AB),Software Developer,"$45,000.000",0,"5,000",,,0,Diploma - Related,,2017,Transportation,,No,< 10
+12-07-2021 16:14,Alberta (AB),Software Developer,"$60,000.000",0,0,0,,1,Bachelor's Degree - Related,,2017,Tech,,No,Nov-50
+12-07-2021 16:15,Alberta (AB),Software Developer,"$85,000.000",0,"10,000",,,3,Bachelor's Degree - Related,,2020,Tech,,No,Nov-50
+12-07-2021 16:16,Alberta (AB),Software Engineer,"$140,000.000",0,0,,,4,Bachelor's Degree - Related,,2021,Tech,,No,Nov-50
+12-07-2021 16:17,Alberta (AB),Software Developer,"$100,000.000",0,0,,,3,Bachelor's Degree - Related,,2021,Other,,No,501-1000
+12-07-2021 16:17,Alberta (AB),Software Developer,"$65,000.000",0,0,,,1,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 16:19,Alberta (AB),Full Stack Software Developer,"$95,000.000",0,0,,,6,Bachelor's Degree - Related,,2021,Other,Internet Of Things,No,51-100
+12-07-2021 16:20,Alberta (AB),Software Developer I,"$73,000.000",0,0,"Relocation Bonus: 2,000",,1,Bachelor's Degree - Unrelated,,2021,Tech,,No,501-1000
+12-07-2021 16:21,Manitoba (MB),Software Developer 2,"$80,000.000",0,"10,000",,,1.5,Bachelor's Degree - Related,,2021,Tech,,No,1000+
+12-07-2021 16:23,Ontario (ON),Software Developer,"$70,000.000",0,0,,,1.5,Bachelor's Degree - Related,,2020,Tech,,No,101-200
+12-07-2021 16:23,Ontario (ON),Software Developer,"$75,000.000",0,0,,,1.5,Bachelor's Degree - Related,,2020,Consulting,,No,101-200
+12-07-2021 16:26,Ontario (ON),Software Developer,"$75,000.000",0,0,0.7% of company,,1.5,Bachelor's Degree - Related,,2020,ERP or CRM,,No,< 10
+12-07-2021 16:26,Ontario (ON),Software Developer,"$80,000.000","2,000",0,,,1.5,Bachelor's Degree - Related,,2020,FinTech,,No,51-100
+12-07-2021 16:28,Ontario (ON),Software Developer,"$102,000.000","75,000","25,000","18,000 second year bonus, and 9,000 year relocation",,1.5,Bachelor's Degree - Related,,2020,Tech,,Yes,1000+
+12-07-2021 16:29,Ontario (ON),Software Developer,"$80,000.000",0,0,,,2,Diploma - Related,,2021,Other,,No,1000+
+12-07-2021 16:30,Ontario (ON),Software Engineer,"$74,000.000",0,0,0,,2,Bachelor's Degree - Related,,,Education,,No,101-200
+12-07-2021 16:31,Remote - US,Frontend Engineer,"$96,000.000",0,0,,,0.4,Masters - Unrelated,,2021,Tech,,No,Nov-50
+12-07-2021 16:33,Ontario (ON),Software Developer,"$50,000.000",0,0,,,0.25,Diploma - Related,,2019,Telecommunication,,No,51-100
+12-07-2021 16:34,Ontario (ON),Software Developer,"$90,000.000",0,0,,,2.5,Bachelor's Degree - Related,,2021,Government,,No,501-1000
+12-07-2021 16:35,Ontario (ON),Sr. Software Developer,"$98,000.000",0,0,,,2.5,Bachelor's Degree - Related,,2021,Consulting,,No,Nov-50
+12-07-2021 16:36,Ontario (ON),Full Stack Software Engineer,"$110,000.000",0,0,,,2,Bachelor's Degree - Related,,2021,Tech,,No,201-300
+12-07-2021 16:37,Ontario (ON),Software Development Engineer II,"$141,000.000",0,0,,,5.5,Bachelor's Degree - Related,,2021,eCommerce,,No,1000+
+12-07-2021 16:38,Ontario (ON),Research Engineer (AI/ML),"$133,000.000",0,variable,"7,000 relocation",,2.25,Masters - Related,,2021,Education,,No,501-1000
+12-07-2021 16:39,Ontario (ON),Software Engineer,"$75,000.000",0,0,,,0.5,Diploma - Related,,2019,Health & Medicine,,No,Nov-50
+12-07-2021 16:40,Ontario (ON),Software Engineer,"$140,000.000",0,0,,,0,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 16:41,Ontario (ON),Software Engineer,"$145,000.000",0,15% Bonus,,,3,Bachelor's Degree - Related,,2020,Consulting,,No,501-1000
+12-07-2021 16:43,Ontario (ON),Software Engineer,"$95,000.000","30,000",8% Bonus,"8,000 relocation",,1.5,Masters - Related,,,Tech,,No,501-1000
+12-07-2021 16:44,Remote - US,Research Engineer (ML/AI),"$150,000.000",0,0,,,4,Bachelor's Degree - Related,,2021,Tech,,No,Nov-50
+12-07-2021 16:46,Remote - US,Junior Developer,"$168,000.000","35,000","30,000",,,1.5,Bachelor's Degree - Related,,2021,FinTech,,No,501-1000
+12-07-2021 16:48,Ontario (ON),Backend Developer,"$100,000.000",0,0,,,13,Bachelor's Degree - Related,,2021,ERP or CRM,,No,201-300
+12-07-2021 16:52,Remote - US,Software Engineer,"$130,000.000",0,0,,,1.5,Bachelor's Degree - Related,,2021,Tech,,No,Nov-50
+12-07-2021 16:52,Quebec (QC),L1 Developer,"$53,000.000",0,0,,,0,Diploma - Related,,2020,Other,Insurance,No,501-1000
+12-07-2021 16:53,Quebec (QC),Software Developer,"$65,000.000",0,0,,,0.75,Bachelor's Degree - Related,,2021,Tech,,No,201-300
+12-07-2021 16:54,Quebec (QC),Embedded SDET,"$85,000.000",15%,10%,,,4,Bachelor's Degree - Related,,2021,Other,Semiconductors,No,501-1000
+12-07-2021 16:55,Quebec (QC),Software Developer,"$90,000.000",0,"7,000",,,2,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 16:56,New Brunswick (NB),Software Developer,"$80,000.000",0,3%,RRSP Matching 5%,,7,Bachelor's Degree - Related,,2021,Oil and Gas/Energy,,No,51-100
+12-07-2021 16:56,Prince Edward Island (PEI),Senior Developer,"$103,000.000",0,20%,,,6,Diploma - Related,,2020,Video Games,,No,51-100
+12-07-2021 16:57,Prince Edward Island (PEI),Junior Developer,"$35,000.000",0,0,,,1,Diploma - Related,,2021,Health & Medicine,,No,Nov-50
+12-07-2021 16:58,Ontario (ON),Solutions Engineer,"$85,000.000",0,0,,,6,Bachelor's Degree - Related,,2021,Tech,,No,1000+
+12-07-2021 16:59,British Columbia (BC),Software Engineer 2,"$98,000.000",0,0,,,2,Bachelor's Degree - Unrelated,,,FinTech,,No,501-1000
+12-07-2021 16:59,British Columbia (BC),Software Developer Engineer 1,"$150,000.000",0,0,,,2,Bachelor's Degree - Related,,2021,Tech,,Yes,1000+
+12-07-2021 17:00,British Columbia (BC),SDE 1,"145,000 TC",0,0,,,1.5,Bachelor's Degree - Related,,2021,Tech,,Yes,1000+
+12-07-2021 17:01,British Columbia (BC),Full Stack Developer + Cloud DevOps,"$105,000.000",0,0,RRSp match,,3,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 17:02,British Columbia (BC),QA Engineer,"$80,000.000",0,0,,,1.5,Bootcamp,,2021,Tech,,No,Nov-50
+12-07-2021 17:02,British Columbia (BC),Fullstack Developer,"$44,000.000",0,0,,,0,Bachelor's Degree - Related,,2021,Tech,,No,< 10
+12-07-2021 17:03,Alberta (AB),Data Analyst,"$55,000.000",0,0,,,0,Certificate - Related,,2021,FinTech,,No,201-300
+12-07-2021 17:04,Alberta (AB),Software Developer,"$65,000.000",0,0,,,0.25,Bachelor's Degree - Unrelated,,2021,Tech,,No,501-1000
+12-07-2021 17:05,Remote - US,Software Engineer,"$140,000.000",0,0,,,4,Bachelor's Degree - Related,,2021,Tech,,No,Nov-50
+12-07-2021 17:06,Alberta (AB),Software Tester,"$48,000.000",0,0,,,9,Diploma - Related,,2021,Other,AVoiP,No,51-100
+12-07-2021 17:06,Remote - US,Software Engineer,"$191,000.000",0,0,,,7,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 17:07,Saskatchewan (SK),Software Developer,"$50,000.000",0,0,,,0.5,Bachelor's Degree - Related,,2021,B2B,,No,Nov-50
+12-07-2021 17:08,Manitoba (MB),Junior Developer,"$75,000.000",0,0,,,0,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 17:09,Remote - US,Senior Machine Learning Engineer,"$175,000.000","60,000","17,500",,,3,Masters - Related,,2021,Tech,,No,101-200
+12-07-2021 17:10,Ontario (ON),Fullstack Developer,"$53,000.000",0,0,,,1,Bachelor's Degree - Related,,2021,Other,Automotives,No,< 10
+12-07-2021 17:10,Remote - US,Software Engineer,"$97,000.000","14,000",0,,,0.75,Bachelor's Degree - Related,,2021,B2B,,No,1000+
+12-07-2021 17:11,Ontario (ON),Software Developer,"$90,000.000",0,0,,,2,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 17:13,Ontario (ON),Cloud DevOps Engineer,"$225,000.000",0,15%,"50,000 Retention Bonus",,4,Bachelor's Degree - Related,,2021,Consulting,,No,101-200
+12-07-2021 17:14,Ontario (ON),Platform Engineer,"$100,000.000",0,12%,,,2.5,Bachelor's Degree - Unrelated,,2021,Other,Media,No,501-1000
+12-07-2021 17:15,Ontario (ON),Software Engineer,"$100,000.000","48,000",16800,,,2,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 17:15,Ontario (ON),SDE,"$115,000.000","22,000","35,000",,,1.5,Bachelor's Degree - Unrelated,,2021,Video Games,,No,501-1000
+12-07-2021 17:16,Ontario (ON),Full Stack Software Engineer,"$80,000.000",0,0,,,0,Bachelor's Degree - Unrelated,,2021,Other,,No,501-1000
+12-07-2021 17:18,Remote - US,Software Engineer II,"$150,000.000","57,000","20,000",,,2.5,Bachelor's Degree - Unrelated,,2021,Tech,,Yes,1000+
+12-07-2021 17:19,Remote - US,Research Engineer (ML),"$160,000.000","1,50,000",0,,,5,Masters - Related,,2021,Tech,,No,501-1000
+12-07-2021 17:20,Remote - US,Software Engineer,"$250,000.000",0,"20,000",,,0,Bachelor's Degree - Related,,2022,FinTech,,No,501-1000
+12-07-2021 17:20,Remote - US,L5 Backend Software Developer,"$110,000.000","75,000",0,,,3,Bachelor's Degree - Related,,2021,Tech,,No,501-1000
+12-07-2021 17:24,Ontario (ON),Fullstack Engineer,"$115,000.000",0,0,,,9,Bachelor's Degree - Related,,2021,FinTech,,No,101-200
+12-07-2021 17:25,Ontario (ON),Fullstack Engineer,"$95,000.000",0,0,,,0,Bachelor's Degree - Related,,2021,Tech,,No,Nov-50
+12-07-2021 17:25,Ontario (ON),Platform Engineer,"$135,000.000",0,15%,,,2,Masters - Unrelated,,2021,FinTech,,No,501-1000
+12-07-2021 17:26,Quebec (QC),Software Engineer,"$50,000.000",0,0,,,0.5,Bachelor's Degree - Related,,2021,eCommerce,,No,< 10
+12-07-2021 17:29,Quebec (QC),Software Engineer,"$100,000.000","15,000","10,000",,,4,Bachelor's Degree - Unrelated,Yes,2021,eCommerce,,No,501-1000
+12-07-2021 17:30,Quebec (QC),Shopify Theme Developer,"$75,000.000",0,10%,,,3.5,High School Diploma Only,Yes,2021,eCommerce,,No,51-100
+12-07-2021 17:31,Quebec (QC),Software Developer,"$77,000.000","7,000","12,000",,,0.5,Bachelor's Degree - Related,No,2021,Tech,,No,501-1000
+12-07-2021 17:31,Quebec (QC),Software Engineer,"$95,000.000",0,"15,000",,,4,Masters - Unrelated,No,2021,FinTech,,No,1000+
+12-07-2021 17:32,Quebec (QC),Software Engineer,"$120,000.000",0,"25,000",,,2,Bachelor's Degree - Related,No,2021,FinTech,,No,501-1000
+12-07-2021 17:33,Quebec (QC),Sr. Software Developer,"$105,000.000",0,20%,,,4,Bachelor's Degree - Related,No,2021,FinTech,,No,501-1000
+12-07-2021 17:34,Remote - US,Software Developer,"$150,000.000",0,0,,,4,Bachelor's Degree - Related,No,2021,Education,,No,Nov-50
+12-07-2021 17:35,Remote - US,Solutions Engineer,"$150,000.000","42,000",0,,,1,Bachelor's Degree - Related,No,2021,Tech,,Yes,501-1000
+12-07-2021 17:36,Ontario (ON),Web Developer,"$85,000.000",0,0,,,2,Bachelor's Degree - Related,No,2021,Tech,,No,Nov-50
+12-07-2021 19:00,Ontario (ON),Software Engineer,120000,0,5000,,,6,Diploma - Related,No,2021,FinTech,,No,1000+
+12-07-2021 19:17,Ontario (ON),Software developer,62640,0,2505.6,,,0.5,High School Diploma Only,No,2022,FinTech,,No,501-1000
+12-07-2021 19:23,Ontario (ON),Software Engineer,120000,47500,15000,7680 per year benefits,,1,Bachelor's Degree - Related,No,2022,Tech,,No,1000+
+12-07-2021 19:35,Ontario (ON),Senior Software Engineer,"1,00,000",0,"15,000",,,2.5,Bachelor's Degree - Related,No,2021,FinTech,,No,1000+
+12-07-2021 20:04,Remote - US,Software Engineer ,165000,0,0,,,2,Bachelor's Degree - Related,No,2021,Tech,,No,Nov-50
+12-07-2021 20:11,Ontario (ON),Backend software developer ,130000,0,0,"Equity, not sure how much it is worth ",,1,Bachelor's Degree - Related,No,2021,Tech,,No,301-500
+12-07-2021 20:25,Remote - US,Senior Software Developer ,180000,25000,18000,,,8,Masters - Related,No,2022,Tech,,No,501-1000
+12-07-2021 21:05,Ontario (ON),Associate Backend Software Engineer,"65,000",0,"5,000",,,0.5,Bachelor's Degree - Unrelated,No,2021,FinTech,,No,1000+
+12-07-2021 21:16,Ontario (ON),IT Team Lead,88000,0,0,0,,7,Bachelor's Degree - Related,No,2021,Government,,No,1000+
+12-07-2021 21:22,Ontario (ON),Senior Software Test specialist,110000,0,11000,,,10,High School Diploma Only,No,2021,Transportation,,No,1000+
+12-07-2021 21:25,British Columbia (BC),Embedded Systems Developer Intern,54000,0,0,,,0,Bachelor's Degree - Unrelated,No,2021,Transportation,,No,1000+
+12-07-2021 21:38,Ontario (ON),Software Developer,107000,80000,10000,,,4,Bachelor's Degree - Related,No,2021,Tech,,Yes,1000+
+12-07-2021 21:47,British Columbia (BC),Intermediate Software Developer,"1,40,000",0,0,0,,3.5,Bachelor's Degree - Related,No,2021,Consulting,,No,1000+
+12-08-2021 03:38,Alberta (AB),Junior Software developer,"65,000",0,"5,000",650,,0,Bachelor's Degree - Related,No,2021,Consulting,,No,501-1000
+12-08-2021 03:40,Ontario (ON),Lead Full Stack,"1,25,000","15,000",0,"8,000",,5,Bachelor's Degree - Related,No,2021,Other,Insurance,No,501-1000
+12-08-2021 05:41,Quebec (QC),Senior SDE,195000,75000,0,0,,4,Bachelor's Degree - Related,No,2021,FinTech,,No,501-1000
+12-08-2021 06:42,Quebec (QC),Software Engineer,70000,0,5000,0,,1.5,Bachelor's Degree - Related,No,2021,Other,Power Electronics,No,Nov-50
