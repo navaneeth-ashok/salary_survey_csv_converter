@@ -40,11 +40,11 @@ def main():
     df.loc[pct, 'final_bonus'] = df.loc[pct, 'final_bonus'].str.rstrip('%').astype('float') / 100.0 * (df.loc[pct, 'base_salary'])
     
     # Copy the final bonus into the original cell
-    df['bonus'] = df['final_bonus']
+    df['bonus'] = df['final_bonus'].astype(float)
 
     # Format year
     df['year'] = df['year'].astype('str')
-    df['year'] = df['year'].map(lambda x: x.replace('\s',default_year))
+    df['year'] = df['year'].map(lambda x: x.replace('\s',str(default_year)))
     df['year'] = df['year'].astype(str).apply(lambda x: x.replace('.0', ''))
 
     # Format Company Size 
